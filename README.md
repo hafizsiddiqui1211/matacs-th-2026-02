@@ -3,7 +3,7 @@
 - **Name:** Hafiz Wildan Ahmed Siddiqui
 - **Reference:** MATACS-TH-2026-02
 - **Role:** Associate Software Developer
-- **Time actually spent:** <!-- TODO: write your real time, e.g. "about 3 hours" --> TODO
+- **Time actually spent:** Approximately 2 hours for understanding and half an hour to complete the exercise.
 - **Prototype:** included (optional), see `prototype/README.md`
 
 ## Files
@@ -22,7 +22,7 @@ Run `python prototype/score.py` from the repo root to reproduce the scores (Pyth
 
 I used Claude to help read the brief, draft the design, the prompts and the prototype code, and to generate the diagram. I reviewed each file and kept the design decisions that I agreed with.
 
-**Where I disagreed with or corrected the AI:** <!-- TODO: replace with ONE real example from your own review, and why. Nobody else can write this for you. --> TODO
+**Where I disagreed with or corrected the AI:** I think at this stage nothing is like to disagreed, but it doen't mean it is not expected in future. This statement is only for this time and this scenario.
 
 ## Notes
 
